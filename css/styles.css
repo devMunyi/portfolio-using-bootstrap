@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/*  Begin Common styles for both mobile and desktop version  */
+:root {
+  --white-bg: #fff;
+  --white-border: 1px solid #fff;
+  --white-text: #fff;
+  --dark-text: #000;
+  --blue-text: #396df2;
+  --blue-bg: #396df2;
+  --blue-border: 1px solid#396df2;
+  --skyblue-bg: #6070ff;
+  --skyblue-text: hsl(234, 90%, 49%);
+  --font-weight-700: 700;
+  --font-weight-600: 600;
+  --font-weight-500: 500;
+  --body-bg: #e5e5e5;
+  --dark-border: #000;
+  --font-poppins: "Poppins", sans-serif;
+  --fade-dark: #344563;
+  --text-blue: #6070FF;
+}
+
+.text-blue {
+  color: #6070FF !important;
+}
+
+body {
+  font-family: var(--font-poppins); 
+}
+
+.logo {
+  flex: 1;
+  align-self: flex-start;
+}
+
+.fade-dark-text {
+  color: var(--fade-dark);
+}
+
+ul {
+  list-style: none;
+}
+
+.mr-2 {
+  margin-right: 20px;
+}
+
+.dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+  background: #C1C7D0;
+}
+
+.badge {
+  color: var(--text-blue)
+}
