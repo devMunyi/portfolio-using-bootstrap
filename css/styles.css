@@ -23,6 +23,7 @@
 
 body {
   font-family: var(--font-poppins);
+  background: var(--body-bg);
 }
 
 .text-blue {
@@ -55,4 +56,15 @@ ul {
 
 .badge {
   color: var(--text-blue);
+}
+
+.headline {
+  background-image: url("../img/headline-desktop-bg.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+  margin-bottom: 100px;
+  background-color: var(--white-bg);
 }
