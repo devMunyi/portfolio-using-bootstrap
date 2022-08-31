@@ -1,0 +1,63 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Portfolio
+
+> This is a static portfolio project meant to show case work done, skills and experiences.
+> It is based on Responsive Web Design (RWD) to suit both mobile and desktop screen sizes.
+
+## [Live Demo]()
+
+
+## Built With
+
+- HTML 
+- CSS
+- Bootstrap
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+- Git Installed
+- npm installed
+- Code Editor
+
+### Setup
+- Clone the repository repository origin https://github.com/devMunyi/Portfolio.git
+- Run the command `npm install` to install necessary dependencies contained in the package.json file
+
+### Test
+- To test your code locally open index.html file on browser. Switch/adjust your browser window size to check how the site appears on mobile view.
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@devMunyi](https://github.com/devMunyi)
+- Twitter: [@munyi_sam](https://twitter.com/twitterhandle)
+- LinkedIn: [https://www.linkedin.com/in/samuel-munyi-01315b174/](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@Outkarm ](https://github.com/githubhandle)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
