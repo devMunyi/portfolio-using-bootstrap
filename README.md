@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author2**
 
-- GitHub: [@Outkarm ](https://github.com/githubhandle)
+- GitHub: [@lolashot](https://github.com/githubhandle)
 
 ## 🤝 Contributing
 
