@@ -58,7 +58,7 @@ ul {
   color: var(--text-blue);
 }
 
-.headline {
+.headline .row .col-sm-8 {
   background-image: url("../img/headline-desktop-bg.svg");
   background-position: center;
   background-repeat: no-repeat;
@@ -67,4 +67,25 @@ ul {
   height: 100vh;
   margin-bottom: 100px;
   background-color: var(--white-bg);
+  border: var(--white-border);
+}
+
+.mb-10 {
+  margin-bottom: 142px;
+}
+
+.pt-10 {
+  padding-top: 142px;
+}
+
+.pb-10 {
+  padding-bottom: 142px;
+}
+
+#about {
+  border-top-right-radius: 75px;
+}
+
+#headline {
+  border-bottom-left-radius: 75px;
 }
